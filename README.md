@@ -1,1 +1,1 @@
-# Assignment- with React ans Springboot
+# Assignment- with React and Springboot
